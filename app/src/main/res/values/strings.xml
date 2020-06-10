@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="et_code_String">Product code</string>
+    <string name="et_description_String">Product description</string>
+    <string name="et_price_String">Product price</string>
+    <string name="btn_register_String">Register product</string>
+    <string name="btn_modify_String">Modify product info</string>
+    <string name="btn_find_String">Find product</string>
+    <string name="btn_erase_String">Erase product</string>
+</resources>
